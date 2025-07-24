@@ -144,7 +144,7 @@ git push origin feat/your-amazing-idea
 
 ## 📜 License
 
-[MIT](LICENSE) © 2025 *Your Name*
+[MIT](LICENSE) © 2025 Armaan Mittal and Ishita Sharma
 
 <details>
 <summary>📚 Fun fact</summary>
