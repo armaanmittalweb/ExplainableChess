@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/python-3.10%2B-green?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/torch-2.x-orange?style=for-the-badge&logo=pytorch" />
   <img src="https://img.shields.io/badge/stockfish-16.1-blue?style=for-the-badge&logo=gnubash" />
-  <img src="https://img.shields.io/github/license/yourname/chess-commentary?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/armaanmittalweb/chess-commentary?style=for-the-badge" />
 </p>
 
 <h1 align="center">♟️  Chess Commentary LLM  ♛</h1>
@@ -68,7 +68,7 @@ python 4_inference/infer.py \
 
 ```bash
 # clone
-git clone https://github.com/yourname/chess-commentary.git
+git clone https://github.com/armaanmittalweb/chess-commentary.git
 cd chess-commentary
 
 # minimal deps
